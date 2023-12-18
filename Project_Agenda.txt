@@ -1,0 +1,28 @@
+
+
+
+# OS - linux
+1. Language - Python / Java
+2. Small project based on lanugae
+3. DB - SQL
+4. Python + DB - intergrate - dummy project 
+5. Web server - Python + DB -- framework  -- Python - Django
+
+Testing:
+Automation :
+	Selenium - test
+
+Project - Github
+AWS  - host - deploy
+
+////
+Maintainace:
+
+github - clone
+user data pull / push
+collborattion team
+
+docker integration
+CI / CD - jenkins/teamcity/aws lamaba
+
+
